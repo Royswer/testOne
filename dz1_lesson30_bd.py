@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS users (
     phone TEXT
 )
 ''')
-
+#
 cursor.execute('''
 CREATE TABLE IF NOT EXISTS posts (
     id INTEGER PRIMARY KEY,
