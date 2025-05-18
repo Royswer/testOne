@@ -1,6 +1,6 @@
 import sqlite3
 import requests
-
+#123
 #Домашнее задание
 connect = sqlite3.connect('jsonplaceholder.db')
 cursor = connect.cursor()
